@@ -11,8 +11,7 @@ Uygulamayı kurmak için Oku beni dosyasını okuyabilirsiniz.
 
 
 Güncel Versiyon Notları V0.2500101A_PUB:
-YBS İçin 23-24 24-25 Güz- Yarıyıl ve Final Eklendi.
-YBS İçin 23-24 Bahar Yarıyıl - 2024-2025 Bahar Vize-Final Eklendi.
+Genel Dosyalar Eklendi.
 
 Latest Application Information 
 Database Founder App
