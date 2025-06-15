@@ -5,12 +5,12 @@ Aradığın dosyayı Database Founder uygulaması üzerinden arayabilir veya gü
 Peki Neden YBS_PDF_Database ?
 Biliyorsunuzki Whatsapp ve Telegram gibi uygulamalarda veriler çok fazla saklanmıyor veya tutulamıyor. 
 Bende bu sorunu yaşayıp özellikle final zamanı soru bulamayan birisiydim fakat oluşturduğum bu platformda veriler kalıcı bir şekilde saklanabilir hale getirdim.
+Uygulamayı kurmak için Oku beni dosyasını okuyabilirsiniz.
 
 İyi Çalışmalar Dilerim. :)))))
 
 
-Güncel Versiyon Notları:
-
+Güncel Versiyon Notları V0.2500101A_PUB:
 YBS İçin 23-24 24-25 Güz- Yarıyıl ve Final Eklendi.
 YBS İçin 23-24 Bahar Yarıyıl - 2024-2025 Bahar Vize-Final Eklendi.
 
