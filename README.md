@@ -19,6 +19,6 @@ YBS İçin 23-24 Bahar Yarıyıl - 2024-2025 Bahar Vize-Final Eklendi.
 
 Latest Application Information 
 Database Founder App
-Application Update Date :  DD.MM.2025 
+Application Update Date :  15.06.2025 
 App & Database Version  :  V0.2500101A_PUB
 Revision                :  R01A
