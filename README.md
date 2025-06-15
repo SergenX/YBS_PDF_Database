@@ -2,6 +2,10 @@ Merhaba Tamamen Ücretsiz ve Karşılıksız Açık Kaynak Oluşturduğum Bu Pla
 
 Aradığın dosyayı Database Founder uygulaması üzerinden arayabilir veya güvenmiyorsanız Database_Folder klasörü üzerinden çıkmış sorulara veya ek medya klasörlerine Erişebilirsiniz.
 
+Peki Neden YBS_PDF_Database ?
+Biliyorsunuzki Whatsapp ve Telegram gibi uygulamalarda veriler çok fazla saklanmıyor veya tutulamıyor. 
+Bende bu sorunu yaşayıp özellikle final zamanı soru bulamayan birisiydim fakat oluşturduğum bu platformda veriler kalıcı bir şekilde saklanabilir hale getirdim.
+
 İyi Çalışmalar Dilerim. :)))))
 
 
