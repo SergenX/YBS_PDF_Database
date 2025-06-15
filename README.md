@@ -1,6 +1,6 @@
-Merhaba Tamamen Ücretsiz ve Karşılıksız Açık Kaynak Oluşturduğum Bu Platformda,
+Merhaba Tamamen Ücretsiz Ve Açık Kaynak Oluşturduğum Bu Platformda,
 
-Aradığın dosyayı Database Founder uygulaması üzerinden arayabilir veya güvenmiyorsanız Database_Folder klasörü üzerinden çıkmış sorulara veya ek medya klasörlerine Erişebilirsiniz.
+Aradığın dosyayı Database Founder uygulaması üzerinden arayabilir veya uygulamaya güvenmiyorsanız Database_Folder klasörü üzerinden çıkmış sorulara veya ek medya klasörlerine Erişebilirsiniz.
 
 Peki Neden YBS_PDF_Database ?
 Biliyorsunuzki Whatsapp ve Telegram gibi uygulamalarda veriler çok fazla saklanmıyor veya tutulamıyor. 
@@ -19,3 +19,6 @@ Database Founder App
 Application Update Date :  15.06.2025 
 App & Database Version  :  V0.2500101A_PUB
 Revision                :  R01A
+
+LinkedIN  : Sergen Piri
+Instagram : Sergenpirii
