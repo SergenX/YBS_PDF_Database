@@ -20,5 +20,7 @@ Application Update Date :  15.06.2025
 App & Database Version  :  V0.2500101A_PUB
 Revision                :  R01A
 
-LinkedIN  : Sergen Piri
+
+İletişim İçin Sosyal Medya Hesaplarım
+LinkedIn  : Sergen Piri
 Instagram : Sergenpirii
