@@ -1,46 +1,19 @@
+Merhaba,
 
-Merhaba Tamamen Ücretsiz ve Karşılıksız Açık Kaynak Oluşturduğum Bu Platformda,
+Uygulamayı ilk Açtığınızda Database_Folder dosyasını soracaktır onu seçtikten sonra arayüzden dosyaları araştırabilirsiniz. eğer yanlış dosyayı seçtiyseniz arayüz üzerinden uygulamayı sıfırlayabilirsiniz.
 
-Aradığın dosyayı Database Founder uygulaması üzerinden arayabilir veya güvenmiyorsanız Database_Folder klasörü üzerinden çıkmış sorulara veya ek medya klasörlerine Erişebilirsiniz.
+İyi Çalışmalar. :))
 
-İyi Çalışmalar Dilerim. :)))))
-
-
-Güncel Versiyon Notları:
-
-YBS İçin 23-24 24-25 Güz- Yarıyıl ve Final Eklendi.
-YBS İçin 23-24 Bahar Yarıyıl - 2024-2025 Bahar Final Eklendi.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+By SergenX
 
 Latest Application Information 
----------------------------------------------
-UZEF Database Founder App
-Application Update Date :  DD.MM.2025 
+Database Founder App
+Application Update Date :  15.06.2025 
 App & Database Version  :  V0.2500101A_PUB
 Revision                :  R01A
----------------------------------------------
+
+
+
+
+
 
