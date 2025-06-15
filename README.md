@@ -14,13 +14,6 @@ Güncel Versiyon Notları V0.2500101A_PUB:
 YBS İçin 23-24 24-25 Güz- Yarıyıl ve Final Eklendi.
 YBS İçin 23-24 Bahar Yarıyıl - 2024-2025 Bahar Vize-Final Eklendi.
 
-
-
-
-
-
-
-
 Latest Application Information 
 Database Founder App
 Application Update Date :  15.06.2025 
