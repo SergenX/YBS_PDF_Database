@@ -4,11 +4,10 @@ Uygulamayı ilk Açtığınızda Database_Folder dosyasını soracaktır onu se�
 
 İyi Çalışmalar. :))
 
-By SergenX
 
 Latest Application Information 
 Database Founder App
-Application Update Date :  15.06.2025 
+Application Update Date :  27.06.2025 
 App & Database Version  :  V0.2500101A_PUB
 Revision                :  R01A
 
