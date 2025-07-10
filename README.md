@@ -12,10 +12,11 @@ Uygulamayı kurmak için Oku beni dosyasını okuyabilirsiniz.
 
 Güncel Versiyon Notları V0.2500101A_PUB:
 Ek Medya Dosyaları Eklendi - 27.06.2025
+Dosya Güncellemesi Yapıldı - 10.07.2025
 
 Latest Application Information 
 Database Founder App
-Application Update Date :  27.06.2025 
+Application Update Date :  10.07.2025 
 App & Database Version  :  V0.2500101A_PUB
 Revision                :  R01A
 
