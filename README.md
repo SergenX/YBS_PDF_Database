@@ -10,20 +10,24 @@ Uygulamayı kurmak için Oku beni dosyasını okuyabilirsiniz.
 İyi Çalışmalar Dilerim. :)))))
 
 
+## ✨ Güncelleme Notları : 
+Güncel Versiyon Notları V0.250301307A_PUB:
+Dosya Eklemeleri Yapıldı (2023-2024 Final Cevap anahtarı + Final PDF)  - 13.07.2025 
+Dosya Adları Düzenlendi (2024,2025)                                    - 13.07.2025 
+İşaretli Ek Medya Eklendi (2023,2024 Yılı)                             - 13.07.2025 
+
 Güncel Versiyon Notları V0.2500101A_PUB:
 Ek Medya Dosyaları Eklendi - 27.06.2025
 Dosya Güncellemesi Yapıldı - 10.07.2025
 
-Latest Application Information 
-Database Founder App
-Application Update Date :  10.07.2025 
-App & Database Version  :  V0.2500101A_PUB
-Revision                :  R01A
+
+## ℹ️ Latest Application Information 
+Repo Update Date        :  13.07.2025 
+Database Version        :  V0.250301307A_PUB
+Revision                :  R01B
 
 
-İletişim İçin Sosyal Medya Hesaplarım
-LinkedIn  : Sergen Piri
-Instagram : Sergenpirii
+## ------------------------------------------------
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sergenpiri_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergen-piri-5a6474247)
