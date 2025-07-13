@@ -8,7 +8,7 @@ Bende bu sorunu yaşayıp özellikle final zamanı soru bulamayan birisiydim fak
 Uygulamayı kurmak için Oku beni dosyasını okuyabilirsiniz.
 
 İyi Çalışmalar Dilerim. :)))))
-
+İnstagram : Sergenpirii LinkedIn : Sergen Piri
 
 ## ✨ Güncelleme Notları : 
 Güncel Versiyon Notları V0.250301307A_PUB:
@@ -30,7 +30,6 @@ Revision                :  R01B
 ## ------------------------------------------------
 
 ## 🌐 Socials:
-İnstagram : Sergenpirii LinkedIn : Sergen Piri
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sergenpiri_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergen-piri-5a6474247)
 
 # 💻 Tech Stack:
